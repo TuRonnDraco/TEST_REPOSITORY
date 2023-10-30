@@ -1,0 +1,11 @@
+[Servers]
+Server1
+Server2
+CentOS
+
+[Ubuntu]
+Server1
+Server2
+
+[CentOS]
+CentOS
