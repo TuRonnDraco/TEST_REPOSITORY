@@ -1,0 +1,2 @@
+# TEST_REPOSITORY
+TEST WITH PINGS VIA ansible all -m ping
